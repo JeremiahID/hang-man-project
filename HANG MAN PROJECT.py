@@ -5,7 +5,6 @@ from random import choice
 W_L=["divine","jeremiah","vanessa","esther","God","samuel","crystal","solution",]
 
 #W means word
-
 W=choice([W_L])
 
 # L means life
