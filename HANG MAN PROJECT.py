@@ -1,7 +1,6 @@
 from random import choice
 
 #W_L means word list
-
 W_L=["divine","jeremiah","vanessa","esther","God","samuel","crystal","solution",]
 
 #W means word
